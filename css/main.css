@@ -500,3 +500,11 @@ html, body {
     background-image: url(../img/projects/nasa.JPG);
     cursor: pointer;
 }
+
+.link-weather{
+    cursor: pointer;
+}
+
+.link-weather:hover{
+    opacity: 0.3;
+}
